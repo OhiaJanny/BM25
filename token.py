@@ -551,8 +551,3 @@ Is your implementation better?
 """
 
 
-
-"""QUESTION 5.
-
-YES, I USED CHATGPT 4.0
-"""
